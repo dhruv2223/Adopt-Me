@@ -6,5 +6,4 @@ export default defineConfig({
     outDir: "dist",
   },
   plugins: [react()],
-  root: "src",
 });
